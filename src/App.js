@@ -1,10 +1,10 @@
 import "./App.css";
-import ComplexCounter from "./components/ComplexCounter";
+import CounterThree from "./components/CounterThree";
 
 function App() {
   return (
     <div className="App">
-      <ComplexCounter />
+      <CounterThree />
     </div>
   );
 }
